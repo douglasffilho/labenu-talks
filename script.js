@@ -1,6 +1,6 @@
 (() => {
     console.log("Serei o conflito?!");
-    console.log("! ogidoc ed em wohS");
+    console.log("S");
 })();
 
 //1. Deixo o código do Matheus
