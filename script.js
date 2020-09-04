@@ -1,6 +1,6 @@
 (() => {
     console.log("Serei o conflito?!");
-    console.log("S");
+    console.log("!");
 })();
 
 //1. Deixo o código do Matheus
